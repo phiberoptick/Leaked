@@ -62,7 +62,7 @@ Let follow their Twitter & Facebook account!
 ![Run Leaked? in ParrotSec](https://linuxteamvietnam.us/wp-content/uploads/2018/09/Leaked-2.0-ParrotSec.png)
 ![Run Leaked? in PowerShell](https://linuxteamvietnam.us/wp-content/uploads/2018/09/Leaked-2.0-Windows-10.png)
 ![Run Leaked? in Kali Linux](https://linuxteamvietnam.us/wp-content/uploads/2018/09/Leaked-2.0-KaliLinux.png)
-![Run Leaked? in Termux](http://www.mediafire.com/file/gcllnzpe974ydl4/index.png)
+![Run Leaked? in Termux](https://raw.githubusercontent.com/technicaldada/Leaked/master/index.png)
 
 # Thanks to Thanks to <a href="https://technicaldada.in/" target="_blank"><span style="color: blue">Technical Dada</span></a> (myself) for programming this tool
 
