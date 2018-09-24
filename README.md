@@ -3,7 +3,7 @@ Leaked? is  A Checking tool for Hash codes and Passwords and Emails leaked, uses
 
 Leaked? can work in any OS if they have support Python 3 and 2.
 
-# What's new?
+# What's new in v3.0 ?
  * Check email leaked
  * Update
  * More friendly for users
@@ -19,7 +19,7 @@ Leaked? can work in any OS if they have support Python 3 and 2.
  
 # Install and Run in Linux
     sudo apt update && apt install python3 python3-pip
-    git clone https://github.com/GitHackTools/Leaked
+    git clone https://github.com/TechnicalDada/Leaked
     cd Leaked
     pip3 install -r requirements.txt
     pip install -r requirements.txt
@@ -34,7 +34,7 @@ Download and run Git setup file from <a href="https://Git-scm.com" target="_blan
 
 After that, Run Command Propmt or PowerShell and enter this commands:
 
-    git clone https://github.com/GitHackTools/Leaked
+    git clone https://github.com/TechnicalDada/Leaked
     cd Leaked
     pip install -r requirements.txt
     python leaked.py
@@ -42,9 +42,9 @@ After that, Run Command Propmt or PowerShell and enter this commands:
 # Update Leaked?: <code>git pull -f</code>
 
 # Notes
-Leaked? uses leakz module from <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a>, and leakz module uses API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">Aurelius Wendelken</span></a>
+Leaked? uses leakz module from <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a>, and leakz module uses API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">Aurelius Wendelken</span></a>. And this modified Version 3.0 is made by <a href="https://facebook.com/technicaldada.in/" target="_blank"><span style="color: blue">Technical Dada</span></a>
 
-Let follow their Twitter account!
+Let follow their Twitter & Facebook account!
   
 # Screenshots
 ![Run Leaked? in ParrotSec](https://linuxteamvietnam.us/wp-content/uploads/2018/09/Leaked-2.0-ParrotSec.png)
