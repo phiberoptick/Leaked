@@ -51,7 +51,7 @@ Let follow their Twitter & Facebook account!
 ![Run Leaked? in PowerShell](https://linuxteamvietnam.us/wp-content/uploads/2018/09/Leaked-2.0-Windows-10.png)
 ![Run Leaked? in Kali Linux](https://linuxteamvietnam.us/wp-content/uploads/2018/09/Leaked-2.0-KaliLinux.png)
 
-# Thanks to Thanks to <a href="https://technicaldada.in/" target="_blank"><span style="color: blue">TechnicalDada</span></a> (myself) for programming this tool
+# Thanks to Thanks to <a href="https://technicaldada.in/" target="_blank"><span style="color: blue">Technical Dada</span></a> (myself) for programming this tool
 
 And <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a> for his free Python module!
 
