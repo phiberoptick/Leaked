@@ -89,7 +89,8 @@ def menu():
             https://fb.com/githacktools
             https://plus.google.com/+TVT618
             
-  MODIFIER: https://technicaldada.in
+  MODIFIER: <b>Technical Dada</b>
+            https://technicaldada.in
             https://facebook.com/technicaldada.in/
             https://github.com/TechnicalDada"""
                  )
