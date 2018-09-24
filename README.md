@@ -42,7 +42,7 @@ After that, Run Command Propmt or PowerShell and enter this commands:
 # Update Leaked?: <code>git pull -f</code>
 
 # Notes
-Leaked? uses leakz module from <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a>, and leakz module uses API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">Aurelius Wendelken</span></a>. And this modified Version 3.0 is made by <a href="https://facebook.com/technicaldada.in/" target="_blank"><span style="color: blue">Technical Dada</span></a>
+Leaked? uses leakz module from <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a>, and leakz module uses API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">Aurelius Wendelken</span></a>. <b>And this modified Version 3.0 is made by <a href="https://facebook.com/technicaldada.in/" target="_blank"><span style="color: blue">Technical Dada</span></a></b>
 
 Let follow their Twitter & Facebook account!
   
