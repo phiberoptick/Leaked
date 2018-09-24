@@ -4,6 +4,7 @@ Leaked? is  A Checking tool for Hash codes and Passwords and Emails leaked, uses
 Leaked? can work in any OS if they have support Python 3 and 2.
 
 # What's new in v3.0 ?
+ * Now comes with Android Supports ( Requires Termux app from Play Store)
  * Check email leaked
  * Update
  * More friendly for users
@@ -39,6 +40,17 @@ After that, Run Command Propmt or PowerShell and enter this commands:
     pip install -r requirements.txt
     python leaked.py
 
+# Install and Run in Android
+Download Termux app from Paly Store. Then open the app and type following commands
+   
+    apt update && apt upgrade
+    apt install python3 && apt install git
+    git clone https://github.com/TechnicalDada/Leaked
+    termux-setup-storage
+    cd Leaked
+    pip install -r requirements.txt
+    python3 leaked.py
+    
 # Update Leaked?: <code>git pull -f</code>
 
 # Notes
