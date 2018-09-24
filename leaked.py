@@ -97,7 +97,7 @@ def menu():
             back()
 
         elif choice == '6':
-            print("\033[93m[+] Don't forget https://GitHackTools.blogspot.com")
+            print("\033[93m[+] Don't forget https://TechnicalDada.in")
             exit(0)
 
         else:
