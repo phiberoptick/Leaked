@@ -82,14 +82,14 @@ def menu():
             back()
 
         elif choice == '5':
-            print("""\033[93mLeaked? 2.0 - A Checking tool for Hash codes and Passwords leaked
+            print("""\033[93mLeaked? 3.0 - A Checking tool for Hash codes and Passwords leaked
 
     AUTHOR: https://GitHackTools.blogspot.com
             https://twitter.com/SecureGF
             https://fb.com/githacktools
             https://plus.google.com/+TVT618
             
-  MODIFIER: <b>Technical Dada</b>
+  MODIFIER: Technical Dada
             https://technicaldada.in
             https://facebook.com/technicaldada.in/
             https://github.com/TechnicalDada"""
