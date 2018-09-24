@@ -1,5 +1,5 @@
 # About Leaked? 2.0
-Leaked? is  A Checking tool for Hash codes and Passwords and Emails leaked, uses leakz module from <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a>, and leakz module uses API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">Aurelius Wendelken</span></a>.
+Leaked? is  A Checking tool for Hash codes and Passwords and Emails leaked, uses leakz module from <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a>, and leakz module uses API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">Aurelius Wendelken.</span></a>. And this modified Version 3.0 is made by <a href="https://facebook.com/technicaldada.in/" target="_blank"><span style="color: blue">Technical Dada</span></a>
 
 Leaked? can work in any OS if they have support Python 3 and 2.
 
