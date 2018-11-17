@@ -69,10 +69,9 @@ Let follow their Twitter & Facebook account!
 And <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a> for his free Python module!
 
 # Contact to Author
- * Website: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools.blogspot.com</span></a>
- * Twitter: <a href="https://twitter.com/SecureGF" target="_blank"><span style="color: blue">@SecureGF</span></a>
- * Facebook: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">@GitHackTools</span></a>
- * Google Plus: <a href="https://plus.google.com/+TVT618" target="_blank"><span style="color: blue">+TVT618</span></a>
+ * Website: <a href="https://technicaldada.in" target="_blank"><span style="color: blue">Technical Dada</span></a>
+ * Facebook: <a href="https://facebook.com/technicaldada.in/" target="_blank"><span style="color: blue">Technical Dada</span></a>
+ * Find The Best Phone For You: <a href="https://www.bestphone10000.com/" target="_blank"><span style="color: blue">Best Phone 10000</span></a>
 
 # To-do list
  * Has yet devise!
